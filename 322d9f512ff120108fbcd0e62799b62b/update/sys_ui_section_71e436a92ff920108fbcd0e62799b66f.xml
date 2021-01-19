@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Esame studenti relazione" section_id="71e436a92ff920108fbcd0e62799b66f" sys_domain="global" table="x_570217_esame_e_s_esame_studenti_relazione" version="3" view="Employee_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 08:11:55</sys_created_on>
+            <sys_id>3de436a92ff920108fbcd0e62799b672</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Esame studenti relazione" display_value="Esame studenti relazione" name="x_570217_esame_e_s_esame_studenti_relazione" sys_domain="global" view="3de436a92ff920108fbcd0e62799b62c">71e436a92ff920108fbcd0e62799b66f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 08:11:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 08:11:55</sys_created_on>
+            <sys_id>b1e436a92ff920108fbcd0e62799b673</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Esame studenti relazione" display_value="Esame studenti relazione" name="x_570217_esame_e_s_esame_studenti_relazione" sys_domain="global" view="3de436a92ff920108fbcd0e62799b62c">71e436a92ff920108fbcd0e62799b66f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 08:11:55</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>matricola_studente</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 08:11:55</sys_created_on>
+            <sys_id>35e436a92ff920108fbcd0e62799b673</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Esame studenti relazione" display_value="Esame studenti relazione" name="x_570217_esame_e_s_esame_studenti_relazione" sys_domain="global" view="3de436a92ff920108fbcd0e62799b62c">71e436a92ff920108fbcd0e62799b66f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 08:11:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 08:11:55</sys_created_on>
+            <sys_id>b5e436a92ff920108fbcd0e62799b673</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Esame studenti relazione" display_value="Esame studenti relazione" name="x_570217_esame_e_s_esame_studenti_relazione" sys_domain="global" view="3de436a92ff920108fbcd0e62799b62c">71e436a92ff920108fbcd0e62799b66f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 08:11:55</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>codice_esame</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 08:11:55</sys_created_on>
+            <sys_id>39e436a92ff920108fbcd0e62799b673</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Esame studenti relazione" display_value="Esame studenti relazione" name="x_570217_esame_e_s_esame_studenti_relazione" sys_domain="global" view="3de436a92ff920108fbcd0e62799b62c">71e436a92ff920108fbcd0e62799b66f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 08:11:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 08:11:55</sys_created_on>
+            <sys_id>b9e436a92ff920108fbcd0e62799b673</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Esame studenti relazione" display_value="Esame studenti relazione" name="x_570217_esame_e_s_esame_studenti_relazione" sys_domain="global" view="3de436a92ff920108fbcd0e62799b62c">71e436a92ff920108fbcd0e62799b66f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 08:11:55</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 08:11:55</sys_created_on>
+            <sys_id>3de436a92ff920108fbcd0e62799b673</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Esame studenti relazione" display_value="Esame studenti relazione" name="x_570217_esame_e_s_esame_studenti_relazione" sys_domain="global" view="3de436a92ff920108fbcd0e62799b62c">71e436a92ff920108fbcd0e62799b66f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 08:11:55</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>voto</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 08:11:55</sys_created_on>
+            <sys_id>bde436a92ff920108fbcd0e62799b673</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Esame studenti relazione" display_value="Esame studenti relazione" name="x_570217_esame_e_s_esame_studenti_relazione" sys_domain="global" view="3de436a92ff920108fbcd0e62799b62c">71e436a92ff920108fbcd0e62799b66f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 08:11:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>superamento_esame</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 08:11:55</sys_created_on>
+            <sys_id>31e436a92ff920108fbcd0e62799b674</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Esame studenti relazione" display_value="Esame studenti relazione" name="x_570217_esame_e_s_esame_studenti_relazione" sys_domain="global" view="3de436a92ff920108fbcd0e62799b62c">71e436a92ff920108fbcd0e62799b66f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 08:11:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 08:11:55</sys_created_on>
+            <sys_id>b1e436a92ff920108fbcd0e62799b674</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Esame studenti relazione" display_value="Esame studenti relazione" name="x_570217_esame_e_s_esame_studenti_relazione" sys_domain="global" view="3de436a92ff920108fbcd0e62799b62c">71e436a92ff920108fbcd0e62799b66f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 08:11:55</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>data_superamento_esame</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 08:11:55</sys_created_on>
+            <sys_id>35e436a92ff920108fbcd0e62799b674</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Esame studenti relazione" display_value="Esame studenti relazione" name="x_570217_esame_e_s_esame_studenti_relazione" sys_domain="global" view="3de436a92ff920108fbcd0e62799b62c">71e436a92ff920108fbcd0e62799b66f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 08:11:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Esame studenti relazione</caption>
+            <header>false</header>
+            <name>x_570217_esame_e_s_esame_studenti_relazione</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 08:11:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>71e436a92ff920108fbcd0e62799b66f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_570217_esame_e_s_esame_studenti_relazione</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Esame e studente " source="x_570217_esame_e_s">322d9f512ff120108fbcd0e62799b62b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Esame e studente ">322d9f512ff120108fbcd0e62799b62b</sys_scope>
+            <sys_update_name>sys_ui_section_71e436a92ff920108fbcd0e62799b66f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 08:11:55</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Employee View" name="Employee_View">3de436a92ff920108fbcd0e62799b62c</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

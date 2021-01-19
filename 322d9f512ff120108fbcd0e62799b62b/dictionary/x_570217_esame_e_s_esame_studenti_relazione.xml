@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Esame studenti relazione" max_length="40" name="x_570217_esame_e_s_esame_studenti_relazione" type="collection">
+        <element label="Codice esame" mandatory="true" max_length="32" name="codice_esame" reference="x_570217_esame_e_s_esame" type="reference"/>
+        <element label="Data Superamento Esame" max_length="40" name="data_superamento_esame" type="glide_date_time"/>
+        <element label="Matricola Studente" mandatory="true" max_length="32" name="matricola_studente" reference="x_570217_esame_e_s_studente" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Superamento Esame" max_length="40" name="superamento_esame" type="boolean"/>
+        <element label="Voto" max_length="40" name="voto" type="string"/>
+        <index name="index">
+            <element name="codice_esame"/>
+        </index>
+        <index name="index2">
+            <element name="matricola_studente"/>
+        </index>
+    </element>
+</database>
